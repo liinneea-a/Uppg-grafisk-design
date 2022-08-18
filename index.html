@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="reusables.css" />
+    <link rel="stylesheet" href="fonts.css" />
+    <link rel="stylesheet" href="mediaquerys.css" />
+    <!-- <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+    /> -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
+    <title>Document</title>
+  </head>
+  <body class="flex">
+    <nav class="nav flex">
+      <span class="logo"></span>
+      <div class="icons flex m-hidden">
+        <span class="material-symbols-outlined icon"> search </span>
+        <span class="material-symbols-outlined icon"> menu </span>
+      </div>
+
+      <div class="nav-items flex s-hidden">
+        <span>Hem</span>
+        <span>Produkter</span>
+        <span>Rehabilitering</span>
+        <span>Kontakt</span>
+
+        <div class="icons">
+          <iconify-icon icon="brandico:facebook"></iconify-icon>
+          <iconify-icon icon="bi:instagram"></iconify-icon>
+          <span class="material-symbols-outlined icon"> search </span>
+        </div>
+      </div>
+    </nav>
+
+    <div class="hero flex">
+        <span class="graphics s-hidden"></span>
+        <span class="graphics-flip s-hidden"></span>
+      <div class="hero-content flex;">
+        <h2>Välkommen till GoDoc</h2>
+        <div class="hero-btns flex">
+          <button class="hero-btn">Se produkter</button>
+          <button class="hero-btn">Boka konsultation</button>
+        </div>
+      </div>
+    </div>
+
+    <main class="flex grid">
+      <div class="product-card flex">
+        <div class="product-card-content flex">
+          <h5>Rehabilitering</h5>
+          <h3>Product Title</h3>
+          <p>
+            Lorem ipsum dolor sit amet. Eum magni ducimus qui consequuntur neque
+            adn officiis fuga ad corporis assumenda et neque dicta ab eveniet
+            explicabo aut molestiae magnam. Sit repellat velit ut sint
+            consequuntur id corporis nisi.
+          </p>
+          <button class="card-btn">Läs mer</button>
+        </div>
+      </div>
+      <div class="product-pic product-pic-1"></div>
+      <div class="product-card flex grid-item-2">
+        <div class="product-card-content flex">
+          <h5>Rehabilitering</h5>
+          <h3>Product Title</h3>
+          <p>
+            Lorem ipsum dolor sit amet. Eum magni ducimus qui consequuntur neque
+            adn officiis fuga ad corporis assumenda et neque dicta ab eveniet
+            explicabo aut molestiae magnam. Sit repellat velit ut sint
+            consequuntur id corporis nisi.
+          </p>
+          <button class="card-btn">Läs mer</button>
+        </div>
+      </div>
+      <div class="product-pic product-pic-2 grid-item-1"></div>
+    </main>
+
+    <div class="contact flex">
+      <div class="contact-content flex">
+        <div class="contact-text">
+          <h2>Kontakta oss</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </div>
+
+        <form class="flex">
+          <input type="text" name="email" id="email" placeholder="Email" />
+
+          <input
+            type="text"
+            name="message"
+            id="message"
+            placeholder="Meddelande"
+          />
+
+          <button type="submit">Skicka</button>
+        </form>
+      </div>
+    </div>
+    <footer class="flex">
+      <div class="footer-content flex">
+        <div class="footer-logo"></div>
+        <span>
+          Adress:<br />
+          Förstagatan 1<br />
+          123 45 Stad
+        </span>
+        <span>
+          Kontakt:<br />
+          Mail: mail@mail@mail.se<br />
+          Tel: 070 1234567
+        </span>
+        <span>
+          Öppettider:<br />
+          mån - fre 8-16
+        </span>
+      </div>
+    </footer>
+  </body>
+</html>
