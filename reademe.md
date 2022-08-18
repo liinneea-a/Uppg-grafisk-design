@@ -1,5 +1,6 @@
 # Uppgift i kursen grafiska verktyg för gränssnittsdesign
 
+## Uppgift:
 I den här inlämningsuppgiften så skall du implementera allt det du lärt dig under kursen.
 
 Använd den grafiska profilen från föregående inlämningsuppgift och designa wireframes, mockup och tillslut en html-sida.
