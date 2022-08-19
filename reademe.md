@@ -6,7 +6,7 @@ Jag har utgått från den grafiska profilen jag skapat i föregående inlämning
 
 Sidan innehåller min logotype samt presentationstext, en kontaktdel samt minst 2 exemel på produkter eller tjänster. Jag har valt att visa allt på en sida (one-page).
 
-Wireframe och Mockup skall visar exempel både för desktop, läsplatta och mobiltelefon.
+Wireframe, Mockup och html-sida visar exempel både för desktop, läsplatta och mobiltelefon.
 
 HTML sidan är inte funktionell, utan illustrerar endast design.
 
