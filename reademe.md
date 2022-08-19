@@ -10,8 +10,9 @@ Wireframe och Mockup skall visar exempel både för desktop, läsplatta och mobi
 
 HTML sidan är inte funktionell, utan illustrerar endast design.
 
-
 Jag har utgått från dessa bredder för mina designs. 
 Desktop: 1440px
 Läsplatta: 1024px
 Mobil: 640px
+
+[Länk till sida](https://liinneea-a.github.io/Uppg-grafisk-design/)
