@@ -12,6 +12,7 @@ button {
     --content-width: 78%;
     --card-height: 544px;
     --nav-height: 60px;
+    --card-btn-color: rgba(255, 198, 69, 0.53);
 }
 
 .s-hidden {
