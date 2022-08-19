@@ -11,6 +11,7 @@ button {
 :root {
     --content-width: 78%;
     --card-height: 544px;
+    --nav-height: 60px;
 }
 
 .s-hidden {
