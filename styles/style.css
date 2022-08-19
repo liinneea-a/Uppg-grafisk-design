@@ -274,8 +274,6 @@ footer {
     width: 60%;
 }
 
-.footer-content>* {}
-
 .footer-logo {
     background: url(../assets/logo-white.png) no-repeat;
     background-size: contain;
